@@ -1,0 +1,18 @@
+symbols:
+  - ETH/USDT
+  - SOL/USDT
+  - INJ/USDT
+
+timeframes:
+  - 15m
+
+indicators:
+  ema: 50
+  smma: 200
+  rsi:
+    enabled: true
+    period: 14
+
+telegram:
+  token: ""
+  chat_id: "21593527"
